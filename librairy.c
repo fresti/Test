@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include "librairy.h"
 
 int multiplication(int a, int b){
   int c;
