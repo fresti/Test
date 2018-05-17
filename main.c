@@ -4,7 +4,7 @@
 
 int main(void) {
 
-  int a = 1, b = 2, c = 5, x = 0;
+  int a = 1, b = 2, c = 8, x = 0;
 
   while(1){
     printf("Bienvenue dans le programme de test");
