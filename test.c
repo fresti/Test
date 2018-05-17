@@ -7,6 +7,8 @@ int main (void){
   printf("Bien joué tu as reussi à up ton projet sur GitHub\n");
   printf("Bien joué tu as réusiss à récuperer les modifs sous MCUxpresso !");
   
+  printf("Cette modification sers juste pour creer un patch\n");
+
   return 0;
   
 }
