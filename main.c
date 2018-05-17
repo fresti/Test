@@ -21,6 +21,7 @@ int main(void) {
     printf("Voici le résultat de l'addition : %d\n", x);
     
     x = 0;
+    printf("Programme de test terminé\n");
     }
 }
     
